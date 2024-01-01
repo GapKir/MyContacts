@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="add_contact">Add contact</string>
+    <string name="close_dialog_button">Close dialog button</string>
+    <string name="create_new_contact">Create new contact</string>
+    <string name="import_existing_contact">Import existing contacts</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="add_photo">Add photo</string>
+    <string name="create_contact">Create contact</string>
+    <string name="authority">com.example.mycontacts</string>
+    <string name="empty_field">You have empty fields</string>
+    <string name="import_contacts">Import Contacts</string>
+    <string name="exist_contact">1%s is already exist</string>
+</resources>
